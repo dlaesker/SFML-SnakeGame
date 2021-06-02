@@ -3,8 +3,11 @@
 #include <vector>
 #include <stdio.h>
 
+/* ******************* *
+ Author: Denis Laesker *
+ ********************* */
+
 /*
- Author: Denis Laesker
  Description: Simple implementation of the well-known snake game with circles. Use the arrow keys to move the snake around and spacebar to start the game. As it stands, the borders are forbidden regions that will cause the window to close. Also, canibalism is not allowed. Thus, the snake biting its own tail will also terminate the game.
  
  Ideas to increase difficulty include:
